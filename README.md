@@ -37,4 +37,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/LinguaBuddy.git
+   git clone https://github.com/jacklim-gif/LinguaBuddy.git
