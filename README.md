@@ -31,8 +31,6 @@
 3. AI generates a reply, tone feedback, or cultural tip.  
 4. Backend responds to the frontend and optionally saves mistakes to DynamoDB.  
 
-> **Note:** Maximum message length is 150 characters to avoid slow responses or server errors.  
-
 ---
 
 ## Getting Started
